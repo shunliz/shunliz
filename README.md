@@ -5,7 +5,7 @@
 - 熟悉公有云，有 GCP、AWS 和阿里云的实战经验。
 - OpenStack core memeber
 
-- [github.io](shunliz.github.io)
+- [github.io](https://shunliz.github.io)
 - [CSDN](https://blog.csdn.net/shatty)
 
 
