@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, 我是程序员shunliz👋
+
+- 主导两家公司云平台从 0 到 1 的建设。两个平台均支持容器 (Kubernetes) 和计算虚拟化 (OpenStack + Kvm)，覆盖 IaaS 到 PaaS 层。
+- 精通 Java Web 开发，如 Spring Boot、Spring Cloud、JavaScript、Postgresql、Redis。
+- 熟悉公有云，有 GCP、AWS 和阿里云的实战经验。
+- OpenStack core memeber
+
+[github.io](shunliz.github.io)
+[CSDN](https://blog.csdn.net/shatty)
+
+
 
 <!--
 **shunliz/shunliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
